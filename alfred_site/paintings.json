@@ -1,0 +1,103 @@
+[{
+    "id": 1, 
+    "paintingName": "Mona Lisa",
+    "artistName": "Leonardo da Vinci",
+    "bio":"The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci. It is considered an archetypal masterpiece of the Italian Renaissance, and has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world.'",
+    "dimensions": "77 cm x 53 cm",  
+    "location":"Louvre Museum",
+    "created": 1503,  
+    "period": "Renaissance",
+    "path":"/images/monalisa.jpg"
+    
+
+},{  
+    "id": 2,   
+    "paintingName": "The Starry Night",
+    "artistName": "Vincent van Gogh", 
+    "bio":"The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh. Painted in June 1889, it describes the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an ideal village.",
+    "dimensions": "74 cm x 92 cm",  
+    "location":"The Museum of Modern Art", 
+    "created": 1889,    
+    "period": "Post-Impressionism, Modern art", 
+    "path":"/images/thestarrynight.jpg"
+},{
+    "id": 3,    
+    "paintingName": "Girl with a Pearl Earring",
+    "artistName": "Johannes Vermeer",   
+    "bio":"Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the large pearl earring worn by the girl portrayed there.",
+    "dimensions": "44 cm x 39 cm",  
+    "location":"Mauritshuis",  
+    "created": 1665,     
+    "period": "Dutch Golden Age" ,
+    "path":"/images/girlwithapearlearring.jpg" 
+},{
+    "id": 4,     
+    "paintingName": "American Gothic",
+    "artistName": "Grant Wood",   
+    "bio":"American Gothic is a 1930 painting by Grant Wood in the collection of the Art Institute of Chicago. Wood was inspired to paint what is now known as the American Gothic House in Eldon, Iowa, along with 'the kind of people I fancied should live in that house'.",
+    "dimensions": "74 cm x 62 cm",   
+    "location":"Royal Academy of Arts",     
+    "created": 1930,      
+    "period": "Modernism",
+    "path":"/images/americangothic.jpg"   
+},{
+    "id": 5,     
+    "paintingName": "The Birth of Venus", 
+    "artistName": "Sandro Botticelli",     
+    "bio":"The Birth of Venus is a painting by the Italian artist Sandro Botticelli, probably made in the mid 1480s. It depicts the goddess Venus arriving at the shore after her birth, when she had emerged from the sea fully-grown. The painting is in the Uffizi Gallery in Florence, Italy.",
+    "dimensions": "1.72 m x 2.78 m",   
+    "location":"Uffizi Gallery",      
+    "created": 1486,        
+    "period": " Renaissance",
+    "path":"/images/thebirthofvenus.jpg"   
+},{
+    "id": 6,     
+    "paintingName": "The Night Watch",   
+    "artistName": " Nicolaes Pickenoy",      
+    "bio":"Militia Company of District II under the Command of Captain Frans Banninck Cocq, also known as The Shooting Company of Frans Banning Cocq and Willem van Ruytenburch, but commonly referred to as The Night Watch, is a 1642 painting by Rembrandt van Rijn.",
+    "dimensions": "3.63 m x 4.37 m",   
+    "location":"Rijksmuseum",       
+    "created": 1642,            
+    "period": "Dutch Golden Age",
+    "path":"/images/thenightwatch.jpg"   
+},{ 
+    "id": 7,      
+    "paintingName": "Café Terrace at Night",     
+    "artistName": "Vincent van Gogh",        
+    "bio":"Café Terrace at Night is an 1888 oil painting by the Dutch artist Vincent van Gogh. It is also known as The Cafe Terrace on the Place du Forum, and, when first exhibited in 1891, was entitled Coffeehouse, in the evening. Van Gogh painted Café Terrace at Night in Arles, France, in mid-September 1888.",
+    "dimensions": "81 cm x 65 cm",    
+    "location":"Kröller-Müller Museum",        
+    "created": 1888,              
+    "period": "Cloisonnism",  
+    "path":"/images/cafeterraceatnight.jpg"   
+},{ 
+    "id": 8,      
+    "paintingName": "Las Meninas",       
+    "artistName": "Diego Velázquez",        
+    "bio":"Las Meninas is a 1656 painting in the Museo del Prado in Madrid, by Diego Velázquez, the leading artist of the Spanish Golden Age. Its complex and enigmatic composition raises questions about reality and illusion, and creates an uncertain relationship between the viewer and the figures depicted.",
+    "dimensions": "3.18 m x 2.76 m",     
+    "location":"Museo Nacional del Prado",        
+    "created": 1656,                
+    "period": "Baroque",    
+    "path":"/images/lasmeninas.jpg"   
+},{ 
+    "id": 9,      
+    "paintingName": "Whistler's Mother",        
+    "artistName": "James Abbott McNeill Whistler",        
+    "bio":"Arrangement in Grey and Black No.1, best known under its colloquial name Whistler's Mother, is a painting in oils on canvas created by the American-born painter James McNeill Whistler in 1871. The subject of the painting is Whistler's mother, Anna McNeill Whistler.",
+    "dimensions": "1.44 m x 1.62 m",       
+    "location":"Louvre Abu Dhabi",         
+    "created": 1871,                
+    "period": "Realism",   
+    "path":"/images/whistlersmother.jpg"   
+},{ 
+    "id": 10,      
+    "paintingName": "Les Demoiselles d'Avignon ",        
+    "artistName": "Pablo Picasso",         
+    "bio":"Les Demoiselles d'Avignon is a large oil painting created in 1907 by the Spanish artist Pablo Picasso. The work, part of the permanent collection of the Museum of Modern Art, portrays five nude female prostitutes in a brothel on Carrer d'Avinyó, a street in Barcelona.",
+    "dimensions": "1.44 m x 1.62 m",        
+    "location":"Louvre Abu Dhabi",         
+    "created": 1871,                
+    "period": "Realism",   
+    "path":"/images/whistlersmother.jpg"   
+}] 

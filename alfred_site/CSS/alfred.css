@@ -1,0 +1,26 @@
+
+    .napoleon{
+        width: 65%;
+        position: absolute;
+        bottom: 20px;
+        left: -30px;
+    } 
+
+    .hand{
+        z-index: 0;
+        position: absolute;
+        top: 550px;
+        left: 115px;
+    }
+
+    .title2{
+        color: white;
+        position: absolute;
+        bottom: 130px;
+        right: 15px;
+        font-family: Rambla;
+        font-weight: bold;
+        width: 50%; 
+        font-size: 16px;
+    }
+  
