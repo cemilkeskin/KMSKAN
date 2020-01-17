@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "The art quiz",
+        "description": "Test your art skills now!",
+        "meta_tags": [
+            "Art",
+            "Museum"
+        ],
+        "difficulty": "17",
+        "questions": [
+            {
+                "text": "When was this painting created?",
+                "answers": [
+                    "1550",
+                    "1552",
+                    "1554",
+                    "1556",
+                    "1558"
+                ],
+                "correct_answer": 3,
+                "global_correct": 1,
+                "global_total": 15,
+                "meta_tags": [
+                    "painting"
+                ]
+            },
+            {
+                "text": "What was the name of the artist?",
+                "answers": [
+                    "Jean-dominique-auguste-ingres",
+                    "Leonardo Da Vinci",
+                    "Pablo Picasso",
+                    "Michelangelo"
+                ],
+                "correct_answer": 3,
+                "global_correct": 1,
+                "global_total": 15,
+                "meta_tags": [
+                    "Artist"
+                ]
+            },
+            {
+                "text": "Where was this masterpiece painted?",
+                "answers": [
+                    "101 West 87th Street, Apt. 1007, New York, NY 10024",
+                    "345 East 68th Street, Apt. 5ABC, New York, NY 10065",
+                    "279 Central Park West, Apt. 11C, New York, NY 10024",
+                    "65 Central Park West, Apt. 12A, New York, NY 10023"
+                ],
+                "correct_answer": 1,
+                "global_correct": 4,
+                "global_total": 15,
+                "meta_tags": [
+                    "Address"
+                ]
+            },
+            {
+                "text": "What is the name of the person on the painting?",
+                "answers": [
+                    "Leonardo Da Vinci",
+                    "Mona Lisa",
+                    "Duchesse de ",
+                    "Baby"
+                    
+                ],
+                "correct_answer": 4,
+                "global_correct": 1,
+                "global_total": 15,
+                "meta_tags": [
+                    "Who"
+                ]
+            },
+            {
+                "text": "In what period was this painted?",
+                "answers": [
+                    "Renaissance",
+                    "Golden dutch age",
+                    "Books"
+                ],
+                "correct_answer": 4,
+                "global_correct": 1,
+                "global_total": 15,
+                "meta_tags": [
+                    "Shelf"
+                ]
+            },
+            {
+                "text": "What dimension was this painting?",
+                "answers": [
+                    "150mm * 50mm",
+                    "150mm * 55mm",
+                    "150mm * 52mm",
+                    "Chloe"
+                    
+                ],
+                "correct_answer": 2,
+                "global_correct": 5,
+                "global_total": 15,
+                "meta_tags": [
+                    "Dimensions"
+                ]
+            },
+            {
+                "text": "What colours was the most seen on the painting?",
+                "answers": [
+                    "Red",
+                    "Black",
+                    "Blue",
+                    "White",
+                    "Yellow"
+                ],
+                "correct_answer": 3,
+                "global_correct": 2,
+                "global_total": 15,
+                "meta_tags": [
+                    "League of Legends"
+                ]
+            }
+        ]
+    }
+]
