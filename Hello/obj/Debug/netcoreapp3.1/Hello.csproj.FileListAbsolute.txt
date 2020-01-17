@@ -1,0 +1,11 @@
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\obj\Debug\netcoreapp3.1\Hello.csprojAssemblyReference.cache
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+C:\Users\cemil\Desktop\SCHOOL\MULTEC 2\FULLPROJECT\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
