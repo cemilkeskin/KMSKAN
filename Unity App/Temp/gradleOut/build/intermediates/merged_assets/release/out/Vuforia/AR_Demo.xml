@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="aanbidding-door-de-koningen-peter-paul-rubens-kmska" size="1.000000 1.318072" />
+    <ImageTarget name="mona_lisa" size="1.000000 1.286432" />
+    <ImageTarget name="madonna" size="0.600000 0.392857" />
+    <ImageTarget name="pw" size="0.150000 0.097784" />
+  </Tracking>
+</QCARConfig>
